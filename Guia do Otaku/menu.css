@@ -1,0 +1,57 @@
+.a{
+   
+    background-image: url('https://sendgrid.com/wp-content/uploads/2020/06/iStock-1164222265-3200x2000.jpg');
+}
+.b{
+
+    margin-top: 40px;
+ 
+    
+   
+}
+h1,p{
+    color: white;
+
+}
+.tamanho{
+    height: 520px;
+}
+.margem{
+    margin-top: 0px;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-thumb{
+    width: 10px;
+    background-color: #130f31;
+    border-radius: 5px;
+}
+.card1{
+    transition: 1s;
+}
+.card1:hover{
+    transform: translateX(-20px);
+}
+.p5{
+    background-color: #14112c;
+    
+}
+.card:nth-child(1){
+    transition: 1s;
+}
+.card:nth-child(1):hover{
+    transform: translateY(-20px);
+}
+.card:nth-child(2){
+    transition: 1s;
+}
+.card:nth-child(2):hover{
+    transform: translateY(-20px);
+}
+.card:nth-child(3){
+    transition: 1s;
+}
+.card:nth-child(3):hover{
+    transform: translateY(-20px);
+}
